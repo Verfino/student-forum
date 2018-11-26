@@ -1,0 +1,15 @@
+current directory: /home/oskar/serwer/student_forum/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.0/ext/websocket-driver
+/home/oskar/.rvm/rubies/ruby-2.5.3/bin/ruby -r ./siteconf20181126-14512-101z3di.rb extconf.rb
+creating Makefile
+
+current directory: /home/oskar/serwer/student_forum/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/oskar/serwer/student_forum/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/oskar/serwer/student_forum/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20181126-14512-dw8nmx

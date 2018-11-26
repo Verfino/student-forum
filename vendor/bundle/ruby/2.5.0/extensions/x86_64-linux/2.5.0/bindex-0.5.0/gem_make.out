@@ -1,0 +1,15 @@
+current directory: /home/oskar/serwer/student_forum/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+/home/oskar/.rvm/rubies/ruby-2.5.3/bin/ruby -r ./siteconf20181126-14512-1ydoscz.rb extconf.rb
+creating Makefile
+
+current directory: /home/oskar/serwer/student_forum/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /home/oskar/serwer/student_forum/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.so
+
+current directory: /home/oskar/serwer/student_forum/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20181126-14512-184dvxp/bindex
